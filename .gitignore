@@ -1,0 +1,11 @@
+﻿# data files (download the raw file yourself, the clean file is made by notebook 1)
+data/raw/*.csv
+data/clean/*.csv
+
+# python / jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
